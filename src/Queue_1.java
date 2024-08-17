@@ -1,5 +1,3 @@
-import java.util.Queue;
-import java.util.LinkedList;
 public class Queue_1 {
     public static void main(String[] args) {
         class ArrayQueue{
