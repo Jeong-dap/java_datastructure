@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Queue_1 {
+public class Queue_1 {
+    public static void main(String[] args) {
+        
+    }
 }
