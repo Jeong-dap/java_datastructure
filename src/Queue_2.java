@@ -1,5 +1,3 @@
-import javax.xml.bind.SchemaOutputResolver;
-
 public class Queue_2 {
     public static void main(String[] args) {
         class CircleQueue{
